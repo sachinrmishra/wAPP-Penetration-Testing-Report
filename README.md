@@ -1,8 +1,8 @@
-# 🛡️ bWAPP Pentesting Report
+#  bWAPP Pentesting Report
 
 This repository contains the results of a web application security assessment conducted on the intentionally vulnerable **bWAPP** application, hosted at [http://www.itsecgames.com](http://www.itsecgames.com). 
 
-## 📌 Assessment Objectives
+##  Assessment Objectives
 
 - Identify vulnerabilities, outdated software, and CVEs.
 - Detect misconfigurations and missing security headers.
@@ -10,14 +10,14 @@ This repository contains the results of a web application security assessment co
 - Highlight any exposed information that could aid attackers.
 - Provide a prioritized remediation roadmap.
 
-## 📄 Final Report
+##  Final Report
 
 The full report with detailed findings, impact analysis, and remediation steps is available here:
 
 🔗 [`bWAPP_Pentesting_Report_Sachin_Mishra.pdf`](./Final_Report/bWAPP_Pentesting_Report_Sachin_Mishra.pdf)
 
 
-## 🧪 Tool Reports
+##  Tool Reports
 
 All testing was performed using publicly available tools, in line with OWASP and PTES standards.
 
@@ -29,7 +29,7 @@ All testing was performed using publicly available tools, in line with OWASP and
 | **OWASP ZAP**| Dynamic application security testing (DAST) | [`HTML Report`](./Tool_Reports/2025-09-08-ZAP-Report-.html), [`ZAP Export`](./Tool_Reports/2025-09-08-ZAP-Report-.zip) |
 
 
-## 🛠️ Methodology
+## 🛠 Methodology
 
 The assessment followed industry standards and used the following phases:
 
@@ -39,7 +39,7 @@ The assessment followed industry standards and used the following phases:
 4. **Manual Verification** – Reviewed findings against known CVEs and OWASP Top 10.
 
 
-## 🧯 Key Findings (Summary)
+##  Key Findings (Summary)
 
 | Risk Level | Issues Identified |
 |------------|--------------------|
@@ -52,7 +52,7 @@ The assessment followed industry standards and used the following phases:
 See full details in the [PDF report](./Final_Report/bWAPP_Pentesting_Report_Sachin_Mishra.pdf).
 
 
-## 🛡️ Recommendations
+##  Recommendations
 
 - Restrict access to vulnerable applications (e.g., internal only or behind VPN).
 - Upgrade outdated software (Drupal, OpenSSH).
@@ -62,12 +62,12 @@ See full details in the [PDF report](./Final_Report/bWAPP_Pentesting_Report_Sach
 - Regularly conduct vulnerability assessments.
 
 
-## 📅 Date of Assessment
+##  Date of Assessment
 
 **September 2025**
 
 
-## 👨‍💻 Author
+##  Author
 
 **Sachin Mishra**  
 Security Officer Trainee  
@@ -75,7 +75,7 @@ Email: _sachinrmishra3@gmail.com_
 GitHub: [github.com/sachinrmishra](https://github.com/sachinrmishra)
 
 
-## 📚 References
+##  References
 
 - OWASP Top 10 (2021)
 - OWASP Testing Guide v4

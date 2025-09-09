@@ -14,7 +14,7 @@ This repository contains the results of a web application security assessment co
 
 The full report with detailed findings, impact analysis, and remediation steps is available here:
 
-🔗 [`bWAPP_Pentesting_Report_Sachin_Mishra.pdf`](./Final_Report/bWAPP_Pentesting_Report_Sachin_Mishra.pdf)
+ [`bWAPP_Pentesting_Report_Sachin_Mishra.pdf`](./Final_Report/bWAPP_Pentesting_Report_Sachin_Mishra.pdf)
 
 
 ##  Tool Reports
@@ -29,7 +29,7 @@ All testing was performed using publicly available tools, in line with OWASP and
 | **OWASP ZAP**| Dynamic application security testing (DAST) | [`HTML Report`](./Tool_Reports/2025-09-08-ZAP-Report-.html), [`ZAP Export`](./Tool_Reports/2025-09-08-ZAP-Report-.zip) |
 
 
-## 🛠 Methodology
+##  Methodology
 
 The assessment followed industry standards and used the following phases:
 

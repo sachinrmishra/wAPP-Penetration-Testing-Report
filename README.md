@@ -69,8 +69,7 @@ See full details in the [PDF report](./Final_Report/bWAPP_Pentesting_Report_Sach
 
 ##  Author
 
-**Sachin Mishra**  
-Security Officer Trainee  
+**Sachin Mishra**   
 Email: _sachinrmishra3@gmail.com_  
 GitHub: [github.com/sachinrmishra](https://github.com/sachinrmishra)
 
